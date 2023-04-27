@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fb2293054f942f1aab795cf259a4ead, type: 3}
+  m_Name: Cyan
+  m_EditorClassIdentifier: 
+  Price: 0
+  MainColor: {r: 0.033018887, g: 1, b: 0.863189, a: 1}
+  DotsColor: {r: 0, g: 0.27377626, b: 0.3207547, a: 1}
+  GlassColor: {r: 0.5235849, g: 0.73119074, b: 1, a: 1}

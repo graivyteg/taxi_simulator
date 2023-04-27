@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f929408f805b48408edb6b42541133db, type: 3}
+  m_Name: Basic Town
+  m_EditorClassIdentifier: 
+  Citizens: 1000
+  HouseBuildings:
+  - {fileID: -8410182741242891370, guid: ebbc369239ba64f969711973e8f24e2e, type: 3}
+  - {fileID: 8222919366638703391, guid: 04153c9e7eee341f39371cd692fa1114, type: 3}
+  - {fileID: -1063959549453508823, guid: 3d9afdab4758846619218b836d315e02, type: 3}
+  - {fileID: 3566704119671605857, guid: dc2ebe71ee4444d5699b901db687b84a, type: 3}
+  StraightRoad: {fileID: 252732706655298801, guid: 1ca727f6ab04d4dd296cfd4e73137e01,
+    type: 3}
+  CornerRoadRight: {fileID: 4382534648011135247, guid: 3a88080809e8a4b83ba7516ae9830710,
+    type: 3}
+  CornerRoadLeft: {fileID: 6296355993616147335, guid: 4c5445b19797c446bb14e865d2c3c800,
+    type: 3}
+  TRoadRight: {fileID: 6742564901225027525, guid: e1992b1343c4c4881b3da14b782e1b98,
+    type: 3}
+  TRoadLeft: {fileID: 251354903570362059, guid: 9495012509b44442ebeac668ad192588,
+    type: 3}
+  TRoadBoth: {fileID: 5553726357504678293, guid: 25c4e1b40509140429525743cc5a0213,
+    type: 3}
+  CrossRoad: {fileID: 7909162740380345944, guid: 574397b9ce5f04780bb6ff88885efe1e,
+    type: 3}
